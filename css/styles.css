@@ -12,4 +12,13 @@ body {
 .flashy {
   color: blue;
   font-style: italic;
+  font-family: monospace;
+  font-size: x-large;
+}
+
+
+li {
+  list-style-type: '🧁';
+  font-size: large;
+  font-style: italic;
 }
