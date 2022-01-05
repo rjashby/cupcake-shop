@@ -1,0 +1,15 @@
+body {
+  background-color: wheat;
+}
+
+.best {
+  font-family: Cambria;
+  font-style: italic;
+  color: green;
+  background-color: purple;
+}
+
+.flashy {
+  color: blue;
+  font-style: italic;
+}
